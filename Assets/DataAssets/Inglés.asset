@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91e29a1af5f791843a8b44993b5e001b, type: 3}
+  m_Name: "Ingl\xE9s"
+  m_EditorClassIdentifier: 
+  backTileColor: {r: 0.5660378, g: 0, b: 0.009963108, a: 1}
+  backTileSprite: {fileID: 21300000, guid: b53f3d7b9eb7b43af97f4fbfa685a115, type: 3}
+  tileAssets:
+  - {fileID: 11400000, guid: 65b42d50718c4b74bbf8b96a5bdcea49, type: 2}
+  - {fileID: 11400000, guid: 8e12a95ea0fc2b8428c100266df40a86, type: 2}
+  - {fileID: 11400000, guid: d6e9699e44837904c92d3eecee4d6dc8, type: 2}
+  - {fileID: 11400000, guid: 25ec690010fcce440975ddac5e7fbcfa, type: 2}
+  - {fileID: 11400000, guid: e82575ad6e51f554bbebd2e7ec78e077, type: 2}
+  - {fileID: 11400000, guid: 4e04d841380d99c438d93220ab1ef4f6, type: 2}
+  - {fileID: 11400000, guid: 851fb6812bca939449979e51aa216371, type: 2}
+  - {fileID: 11400000, guid: 22307c57747a4ad418616c715d878f10, type: 2}
+  - {fileID: 11400000, guid: aa95ba708f235714887d60f8064be93a, type: 2}
+  - {fileID: 11400000, guid: 44b653f1a920a7949b3a4079a7895997, type: 2}
